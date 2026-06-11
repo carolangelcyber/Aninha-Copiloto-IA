@@ -33,6 +33,7 @@ Minha stack principal configurada: Python 3, FastAPI, Selenium, pip e requiremen
 
 
 <img width="1147" height="626" alt="ANINHA" src="https://github.com/user-attachments/assets/64ebe518-6638-4f5d-bbb7-a3148d353ae7" />
+<img width="1101" height="643" alt="aninha2" src="https://github.com/user-attachments/assets/25a81abb-8cd1-46aa-865a-ef38ade2201b" />
 
 
 
