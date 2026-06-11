@@ -32,5 +32,6 @@ Focado no meu aprendizado de Python. Em vez de me dar respostas prontas, a Aninh
 Minha stack principal configurada: Python 3, FastAPI, Selenium, pip e requirements.txt.
 
 
-<img width="1366" height="768" alt="ANINHA" src="https://github.com/user-attachments/assets/06369f57-0bf0-4f3b-b8b5-2b26f0d41a5c" />
+<img width="1366" height="768" alt="ANINHA1" src="https://github.com/user-attachments/assets/5a97aec1-92f8-4825-90e0-2b984d37b2cc" />
+
 
