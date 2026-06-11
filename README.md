@@ -29,4 +29,4 @@ Focado no meu aprendizado de Python. Em vez de me dar respostas prontas, a Aninh
 * **Agent Code** -> Gerar o código Python pronto pro VS Code
 * **Study** -> Estudar a teoria e conceitos de forma ativa
 
-Minha stack principal configurada: Python 3.x, FastAPI, Selenium, pip e requirements.txt.
+Minha stack principal configurada: Python 3, FastAPI, Selenium, pip e requirements.txt.
